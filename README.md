@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shaniah (But, I go by Shane)
+- 👋 Hi, I’m @Shaniah (but I go by Shane)
 - 👀 I’m interested in digital art, learning languages, video games, reading, writing, and snacks. 
 - 🌱 I’m currently learning as much as I can about UX/UI Design and how to be a good community leader.
 - 📫 How to reach me: shaniah.blanchard@gmail.com
