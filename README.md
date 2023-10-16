@@ -1,6 +1,7 @@
 - 🧡 Hi, I’m @Shaniah (but I go by Shane)
-- 👀 I’m interested in digital art, learning languages, video games, reading, writing, and snacks. 
-- 🌱 I’m currently learning as much as I can about UX/UI Design and how to be a good community leader.
+- 🎮 I'm a solo indie Game Developer currently crafting a 2D Pixel Horror RPG. 
+- 🎨 My hobbies include: art, learning languages, video games, reading, writing, and eating snacks. 
+- 🌱 I’m currently learning Godot and how to be brave.
 - 💌 How to reach me: shaniah.blanchard@gmail.com
 
 <!---
